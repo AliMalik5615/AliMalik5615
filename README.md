@@ -10,6 +10,7 @@ This profile hosts home lab builds and automation work demonstrating Windows Ser
 
 Windows Server, Active Directory, Group Policy, domain services.
 
+- **[GPO Software Deployment](https://github.com/AliMalik5615/sysadmin-gpo-software-deployment)** — Two-tier software deployment via GPO: baseline MSIs to all workstations and per-request approved programs via security group filtering. Scoped through a dedicated Workstations OU with documented design iteration.
 - **[AD GPO Drive Mapping Lab](https://github.com/AliMalik5615/ad-gpo-drive-mapping-lab)** — OU-scoped department drive mapping with share and NTFS permission layering on Windows Server 2022.
 - **[Windows Firewall GPO Baseline](https://github.com/AliMalik5615/sysadmin-firewall-gpo-baseline)** — Centrally managed deny-by-default firewall policy with scoped allow rules for RDP and ICMP.
 - *Coming soon: AD OU and security group design, GPO baseline policies, PowerShell user provisioning.*
