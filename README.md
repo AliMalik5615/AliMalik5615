@@ -11,6 +11,7 @@ This profile hosts home lab builds and automation work demonstrating Windows Ser
 Windows Server, Active Directory, Group Policy, domain services.
 
 - **[AD GPO Drive Mapping Lab](https://github.com/YOUR-USERNAME/ad-gpo-drive-mapping-lab)** — OU-scoped department drive mapping with share and NTFS permission layering on Windows Server 2022.
+- **[Windows Firewall GPO Baseline](https://github.com/YOUR-USERNAME/sysadmin-firewall-gpo-baseline)** — Centrally managed deny-by-default firewall policy with scoped allow rules for RDP and ICMP.
 - *Coming soon: AD OU and security group design, GPO baseline policies, PowerShell user provisioning.*
 
 ---
