@@ -41,4 +41,4 @@ Windows Server 2022 Datacenter domain controller and Windows 11 Pro client, runn
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/alimalik94]
+- LinkedIn: linkedin.com/in/alimalik94/
