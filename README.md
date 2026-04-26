@@ -1,13 +1,10 @@
 # Ali Malik
-
 ICT Support Engineer based in South Australia. Interested in Systems Administration, Cloud Infrastructure, and Support Engineering roles.
-
 This profile hosts home lab builds and automation work demonstrating Windows Server administration, Microsoft cloud services, and end-user support tooling.
 
 ---
 
 ## 🖥️ System Administration
-
 Windows Server, Active Directory, Group Policy, domain services.
 
 - **[GPO Software Deployment](https://github.com/AliMalik5615/sysadmin-gpo-software-deployment)** — Two-tier software deployment via GPO: baseline MSIs to all workstations and per-request approved programs via security group filtering. Scoped through a dedicated Workstations OU with documented design iteration.
@@ -18,15 +15,14 @@ Windows Server, Active Directory, Group Policy, domain services.
 ---
 
 ## 🛠️ Support Engineering
-
 Endpoint management, service desk automation, user-facing tooling.
 
-- *Coming soon: PowerShell folder access permission tool, meeting room manager automation, endpoint imaging workflow.*
+- **[Meeting Room Manager](https://github.com/AliMalik5615/meeting-room-manager)** — PowerShell tool for Exchange Online meeting room provisioning. Workbook-driven bulk create, modify, delete, and audit of room mailboxes with pre-execution planning, typed confirmation guards, and colour-coded Expected vs Actual audit output. Reduced provisioning time from ~45 minutes to under 5 minutes.
+- *Coming soon: PowerShell folder access permission tool, endpoint imaging workflow.*
 
 ---
 
 ## ☁️ Cloud Administration
-
 Azure, Entra ID, Intune, Microsoft 365.
 
 - *Coming soon: Entra ID tenant setup, Intune device enrolment, Azure resource deployment with ARM/Bicep.*
@@ -34,11 +30,9 @@ Azure, Entra ID, Intune, Microsoft 365.
 ---
 
 ## Lab environment
-
 Windows Server 2022 Datacenter domain controller and Windows 11 Pro client, running on VMware Workstation. Domain: `mylab.local`.
 
 ---
 
 ## Contact
-
 - LinkedIn: [linkedin.com/in/alimalik94](https://www.linkedin.com/in/alimalik94/)
